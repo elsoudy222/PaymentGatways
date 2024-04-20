@@ -1,7 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:flutter_svg/flutter_svg.dart';
 import 'package:payment/features/checkout/presentation/screens/payment_details/payment_details_screen.dart';
 import 'package:payment/features/checkout/presentation/widgets/order_info_item.dart';
 
